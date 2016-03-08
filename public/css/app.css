@@ -12,3 +12,7 @@
   font-size:14px;
   font-weight:600;
 }
+
+.ui.menu .item:before {
+  width:0px;
+}
