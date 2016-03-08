@@ -1,0 +1,7 @@
+{
+  "generator-react-webpack": {
+    "appName": "test",
+    "style": "less",
+    "postcss": true
+  }
+}
