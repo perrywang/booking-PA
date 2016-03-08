@@ -1,18 +1,14 @@
 #footer {
   position:fixed;
-  left:0px;
   bottom:0px;
   height:48px;
   width:100%;
+  margin:0;
+  padding:0;
+  border-radius: 0;
 }
 
 #footer .item {
   font-size:14px;
   font-weight:600;
-}
-
-#footer {
-  margin:0;
-  padding:0;
-  border-radius: 0;
 }
