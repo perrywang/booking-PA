@@ -35,5 +35,9 @@
 @section('scripts')
 <script type="text/javascript" src="/js/jquery.min.js"></script>
 <script type="text/javascript" src="/js/semantic.min.js"></script>
+<script type="text/javascript">
+  $('#footer').css('top',window.innerHeight-72);
+  $('#footer').css('visibility','visible');
+</script>
 @show
 </body>
