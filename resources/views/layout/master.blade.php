@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="{{App::getLocale()}}" style="height:100%!important;width:90%">
+<html lang="{{App::getLocale()}}">
 <head>
     <!-- Standard Meta -->
     <meta charset="utf-8" />
