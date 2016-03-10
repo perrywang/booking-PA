@@ -12,9 +12,11 @@
           <div class="ui grid">
             <div class="ui two column row">
               <div class="ui column">
-                 <div style="width:97%;background-color:#db2828;height:34px;text-align:center;padding-top:5px;">
-                   拉斯维加斯
-                 </div>
+                 <a href="#">
+                   <div style="width:97%;background-color:#db2828;height:34px;text-align:center;padding-top:5px;">
+                     拉斯维加斯
+                   </div>
+                 </a>
               </div>
 
               <div class="ui column">
