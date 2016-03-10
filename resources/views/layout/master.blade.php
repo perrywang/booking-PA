@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="{{App::getLocale()}}" style="width:96%;">
+<html lang="{{App::getLocale()}}">
 <head>
     <!-- Standard Meta -->
     <meta charset="utf-8" />
@@ -12,7 +12,7 @@
     <link rel="stylesheet" type="text/css" href="/css/app.css">
     @show
 </head>
-<body>
+<body style="width:100%;">
 <div id="container" class="ui grid">
     <div class="ui row">
       <div class="ui column">

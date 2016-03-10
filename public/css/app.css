@@ -1,3 +1,11 @@
+.row,.column {
+  padding:0px 0px!important;
+}
+
+.grid {
+  margin:0!important;
+}
+
 #footer {
   position:fixed;
   bottom:0px;
@@ -15,4 +23,8 @@
 
 .ui.menu .item:before {
   width:0px;
+}
+
+#content {
+  color:white;
 }
